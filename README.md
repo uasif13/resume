@@ -1,2 +1,2 @@
 # resume
-Developing my resume in Latex
+Writing my resume in Latex
